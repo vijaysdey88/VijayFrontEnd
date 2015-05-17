@@ -2,6 +2,7 @@
 
 #Bower components
 */node_modules
+*/bower_components
 */.classpath
 */.project
 */.settings/
