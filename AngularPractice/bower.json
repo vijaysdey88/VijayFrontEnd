@@ -1,0 +1,23 @@
+{
+  "name": "anglularPractice",
+  "version": "0.0.1",
+  "homepage": "https://github.com/vijaysdey88/VijayFrontEnd",
+  "authors": [
+    "vijaysdey88 <vijaysdey88@gmail.com>"
+  ],
+  "description": "Practice different features of Angular.js",
+  "main": "index.html",
+  "keywords": [
+    "angular",
+    "basics"
+  ],
+  "license": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}

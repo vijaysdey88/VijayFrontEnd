@@ -1,0 +1,15 @@
+*.class
+
+#Bower components
+*/node_modules
+*/.classpath
+*/.project
+*/.settings/
+
+#Junk file
+RemoteSystemsTempFiles/
+.DS_Store
+.metadata/
+*/target/
+
+
